@@ -1,3 +1,3 @@
 @Library("Shared-library") _
 
-Practice()
+Practice("Example for practice is running")
